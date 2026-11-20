@@ -1,7 +1,7 @@
 
 ## CarteleraCine
 
-Programa de consola en C# (.NET 10) que administra las funciones de la cartelera de un cine en SQL Server (LocalDB) con un CRUD completo: registrar, listar, buscar por Id, actualizar precio y eliminar. Todas las consultas son parametrizadas y los errores de la base de datos se controlan con try/catch en el menú.
+Programa de consola en C# (.NET 10) que administra las funciones de la cartelera de un cine en SQL Server (LocalDB) con un CRUD completo: registrar, listar, buscar por Id, actualizar precio y eliminar. Todas las consultas son parametrizadas y los errores de la base de datos se controlan con try/catch en el menú.......
 
 - **Curso:** Algoritmos (008), UMG Chiquimulilla
 - **Estudiante:** Sergio Augusto Diaz Chacon
@@ -66,5 +66,7 @@ Resultado esperado: el programa no se cae; muestra "Error de base de datos: ..."
 ![Captura 3](capturas/Cap3.png)
 ![Captura 4](capturas/Cap4.png)
 ![Captura 5](capturas/Cap5.png)
-![Captura 6](capturas/Cap6.png)
+![Captura 6](capturas/Cap6.png) 
+
+
 
